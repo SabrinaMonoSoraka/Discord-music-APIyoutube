@@ -1,4 +1,4 @@
-# BOT DISCORD - Buscando músicas no youtube com api
+# BOT DISCORD - Buscando músicas no youtube
 
 | Dependencies     |                               |
 |------------------|-------------------------------|
